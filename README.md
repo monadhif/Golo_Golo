@@ -17,4 +17,9 @@ $pip install pyttsx3
 $pip install pipwin
 $pipwin install pyaudio
 ```
+* **pip install pywhatkit** : is a Python library for Sending whatsapp message at certain time, it has several other features too.
+[See more](https://pypi.org/project/pywhatkit/)
+```
+$pip install pywhatkit
+```
 
